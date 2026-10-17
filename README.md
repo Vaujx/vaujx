@@ -1,4 +1,4 @@
-# Hey, I'm Jay J :3
+# Hey, I'm Jay Jay :3
 
 I build web apps and automate the boring stuff so people can spend their time on the work that actually matters.
 
