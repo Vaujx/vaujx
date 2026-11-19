@@ -47,7 +47,7 @@ A folder full of videos with titles in a language you can't read. This tool scan
 **[BAAC](https://github.com/Vaujx/BAAC)** · Python (Flask)
 A community web app for a barangay, with local data, history, and notable places, plus user authentication. Deployed with a Procfile.
 
-**[VAUX](https://github.com/Vaujx/VAUX)** · Kotlin
+**[VAUX](https://github.com/Vaujx/VAUX)** · Kotlin 
 A private, offline music player with ink-and-paper manga styling. No accounts. No ads. No servers. Just the music you choose.
 
 ---
